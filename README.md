@@ -9,3 +9,12 @@ Here is also a simple guide to Markdown syntax, which you will need for the exer
 Keep in mind in Markdown you can use any valid HTML syntax (such as embedding images in documents). 
 
 Finally, a URL to an image, which you will need to complete the exercise described below: https://github.com/SlicerMorph/SlicerPhotogrammetry/blob/master/Photogrammetry/Resources/Icons/Photogrammetry.png
+
+## Exercise description
+1. Go to the issues page of this repository and create a new issue indicating you will like to make a contribution.
+2. Fork this repository under your own account
+3. Create new markdown document in your own called with using the convention **YourFullName.md** render the provided exercise image (see below) in markdown format as closely as possible (including the embedded image).
+4. Commit your changes and then submit a pull request.
+
+Here is the exercise image:
+<img src="./exercise.png" width=600>
