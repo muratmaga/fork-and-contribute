@@ -16,5 +16,7 @@ Finally, a URL to an image, which you will need to complete the exercise describ
 3. Create new markdown document in your own called with using the convention **YourFullName.md** render the provided exercise image (see below) in markdown format as closely as possible (including the embedded image).
 4. Commit your changes and then submit a pull request.
 
-Here is the exercise image:
+## Here is the exercise image
+
+
 <img src="./exercise.png" width=600>
