@@ -10,3 +10,8 @@ This is normal text
 *This is italics text*
 
 ~~This is strikethrough text~~
+
+An ordered list:
+1. item one 
+2. item two 
+3. item three
