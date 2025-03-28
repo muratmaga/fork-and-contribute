@@ -8,3 +8,5 @@ This is normal text
 **This is bold text**
 
 *This is italics text*
+
+*This is strikethrough text*
