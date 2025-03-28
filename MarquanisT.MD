@@ -9,4 +9,4 @@ This is normal text
 
 *This is italics text*
 
-*This is strikethrough text*
+~~This is strikethrough text~~
