@@ -12,6 +12,12 @@ This is normal text
 ~~This is strikethrough text~~
 
 An ordered list:
-1. item one 
-2. item two 
-3. item three
+<ol>
+<li>first item</li>
+ <li>second item</li>
+<li>thrid item</li> 
+
+An simple list:
+<ul>
+</ul>
+
